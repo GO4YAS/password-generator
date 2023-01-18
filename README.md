@@ -8,7 +8,7 @@ During this challenge I was tasked with creating the JavaScript for a password g
   - JavaScript
   
   ## Site URL
-  
+  https://go4yas.github.io/password-generator/ 
   ## ScreenShot
   
   
